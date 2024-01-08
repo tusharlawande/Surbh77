@@ -1,3 +1,6 @@
+https://img.shields.io/badge/saurabh-shinde
+
+
 - Hi, I’m Saurabh Shinde
 - Passionate ML engineer from India with a proven track record in diverse frameworks.
 - Specialized in model deployment, algorithm optimization, and staying abreast of AI advancements.
