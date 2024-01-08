@@ -1,4 +1,7 @@
 
+# 💫 About Me:
+Hi there I am Saurabh Shinde👋<br>-Passionate ML engineer from India with a proven track record in diverse frameworks. <br>-Specialized in model deployment, algorithm optimization, and staying abreast of AI advancements. <br>-Actively seeking innovative projects to contribute expertise. <br>-Let's connect and collaborate on cutting-edge ML initiatives! <br>🚀 #ML #AI #Innovation"
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Surbh#9971) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/surbh_here?igsh=ZGNjOWZkYTE3MQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/saurabh-shinde-40b48bb7) [![Portfolio Website](https://img.shields.io/badge/Portfolio-yellow?logo=github&logoColor=white)](https://saurabhshindemlportfolio.netlify.app/)
 
