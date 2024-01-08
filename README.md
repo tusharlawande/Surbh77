@@ -1,6 +1,8 @@
 - Hi, I’m Saurabh Shinde
-- I’m currently learning AL|ML
-- I’m looking to collaborate on ML|DL Projects
+- Passionate ML engineer from India with a proven track record in diverse frameworks.
+- Specialized in model deployment, algorithm optimization, and staying abreast of AI advancements.
+- Actively seeking innovative projects to contribute expertise.
+- Let's connect and collaborate on cutting-edge ML initiatives! 🚀 #ML #AI #Innovation"
 
 
 <!---
