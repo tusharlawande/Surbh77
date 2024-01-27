@@ -16,5 +16,5 @@ Hi there I am Saurabh Shinde👋<br>-Passionate ML engineer from India with a pr
 ![](https://github-profile-trophy.vercel.app/?username=surbh77&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Surbh77.Surbh77"/> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Surbh77.Surbh77"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
